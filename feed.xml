@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Tienda de Videojuegos</title>
+    <link>https://carlossp05.github.io/PaginaWeb/</link>
+    <description>Últimas actualizaciones de mi página personal.</description>
+    <item>
+      <title>Tienda de Videojuegos</title>
+      <link>https://carlossp05.github.io/PaginaWeb/proyectos.html</link>
+      <description>He añadido un nuevo proyecto a mi portafolio personal.</description>
+    </item>
+  </channel>
+</rss>
